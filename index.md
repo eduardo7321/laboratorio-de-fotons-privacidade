@@ -3,6 +3,8 @@ title: Política de privacidade — Laboratório de Fótons
 lang: pt-BR
 ---
 
+# Política de privacidade — Laboratório de Fótons
+
 Última atualização: 14 de setembro de 2026.
 
 Esta política vale para o aplicativo **Laboratório de Fótons** (`com.eduardo.laboratoriodefotons`) para Android.
