@@ -5,7 +5,7 @@ lang: pt-BR
 
 # Política de privacidade — Laboratório de Fótons
 
-Última atualização: 16 de setembro de 2026.
+Última atualização: 15 de outubro de 2026.
 
 Esta política vale para o aplicativo **Laboratório de Fótons** (`com.eduardo.laboratoriodefotons`) para Android.
 
@@ -28,7 +28,12 @@ Mais ou menos a cada 10 minutos de jogo, numa pausa entre as fases, o jogo mostr
 
 - O jogo é classificado para o público infantil no Google Play. Por isso, os anúncios são configurados como **direcionados a crianças**: são **anúncios não personalizados**, sem rastreamento de interesses e sem remarketing.
 - Com essa configuração, o **identificador de publicidade do Android não é transmitido**, e o app nem tem permissão para lê-lo.
-- Para escolher e exibir o anúncio, o AdMob precisa de conexão com a internet e recebe informações técnicas básicas, como o tipo de aparelho, o idioma e o país aproximado, obtido pelo endereço de rede.
+- Para escolher e exibir o anúncio, o AdMob precisa de conexão com a internet e recebe automaticamente algumas informações técnicas:
+  - **Local aproximado:** o país ou a região, estimados pelo endereço de rede (IP).
+  - **Interações com o anúncio:** por exemplo, se o anúncio foi aberto, visto ou tocado.
+  - **Diagnóstico:** dados de funcionamento, como tempo de abertura e travamentos.
+  - **Identificador do app no aparelho** (*app set ID*), que não é o identificador de publicidade, além de informações como o tipo de aparelho e o idioma.
+- O Google usa essas informações para exibir os anúncios, medir o seu desempenho e evitar fraudes. Elas são enviadas por conexão criptografada.
 - O jogo não envia ao AdMob o seu nome, e-mail, localização precisa, contatos, fotos ou qualquer informação que identifique você.
 
 O tratamento dos dados pelo Google é descrito na política de privacidade do Google: https://policies.google.com/privacy
@@ -47,7 +52,7 @@ Fora os anúncios, o jogo funciona inteiro sem conexão: todas as fases, o labor
 ## O que o jogo não faz
 
 - Não pede cadastro, login nem compras dentro do app.
-- Não usa ferramentas de análise nem rastreamento de uso.
+- Não usa ferramentas próprias de análise nem rastreia o que você faz no jogo; a única medição é a que o AdMob faz dos próprios anúncios, descrita acima.
 - Não coleta localização precisa, contatos, fotos, microfone, câmera nem lista de aplicativos.
 - Não tem bate-papo, comentários nem qualquer interação entre jogadores.
 
